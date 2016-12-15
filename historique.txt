@@ -1,0 +1,9 @@
+ScreenSaver! type: Statique ; file: affichage3.pbm ; date: 15/11 ; heure: 11:15:38 
+ScreenSaver! type: Statique ; file: affichage.pbm ; date: 15/11 ; heure: 11:15:43 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 11:15:48 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 11:15:56 
+ScreenSaver! type: Statique ; file: affichage.pbm ; date: 15/11 ; heure: 11:24:18 
+ScreenSaver! type: Dynamique ; date: 15/11 ; heure: 11:24:22 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 11:24:28 
+ScreenSaver! type: Interactif ; date: 15/11 ; heure: 11:24:45 
+ScreenSaver! type: Statique ; file: affichage.pbm ; date: 15/11 ; heure: 11:24:57 
